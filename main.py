@@ -8,7 +8,8 @@
 # bounties and won zero. The joke is true, specific to this agent,
 # and self-deprecating rather than hateful — a participation trophy
 # with a GPU. No stock hallucination/refusal gag: the angle is the
-# losing streak itself, with the punchline at the end.
+# losing streak itself, with the punchline at the end. The em dash
+# is one character; the line has no newline inside it.
 
 import os
 
